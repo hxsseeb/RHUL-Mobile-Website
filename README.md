@@ -1,8 +1,9 @@
 ## Welcome to RHUL Mobile
 To download the app on iOS, please visit [this link](https://www.google.co.uk).
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Support
+
+If you are facing any issues, please contact me via email [here](mailto:hasseeb473@gmail.com)
 
 ```markdown
 Syntax highlighted code block
